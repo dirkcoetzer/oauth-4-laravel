@@ -1,5 +1,5 @@
 {
-    "name": "artdarek/oauth-4-laravel",
+    "name": "dirkcoetzer/oauth-4-laravel",
     "type": "library",
     "description": "OAuth Service Provider for Laravel 4",
     "keywords": ["OAuth", "Lusitanian", "laravel", "php"],
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3",     
-        "lusitanian/oauth": "~0.3"
+        "dirkcoetzer/oauth": "~0.3"
     },
     "require-dev": {
         "illuminate/support": "~4"
